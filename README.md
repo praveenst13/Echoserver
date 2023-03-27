@@ -60,6 +60,7 @@ print(f"Received {data!r}")
 
 ```
 ## OUTPUT:
-
+![img](server.png)
+![img2](client.png)
 ## RESULT:
 The program is executed successfully
